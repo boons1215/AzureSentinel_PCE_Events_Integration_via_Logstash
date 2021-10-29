@@ -1,0 +1,1 @@
+# AzureSentinel_PCE_Events_Integration_via_Logstash
